@@ -1,0 +1,152 @@
+[
+ {
+  "id": 1,
+  "status": "live",
+  "type": "poster",
+  "cat": "cricket",
+  "title": "India Tour of New Zealand",
+  "sub": "India Vs New Zealand || T20",
+  "big": "NEW ZEALAND <br>vs INDIA",
+  "tag": "5 T20Is | 5 ODIs | 2 TESTs",
+  "h": [
+   205,
+   225
+  ]
+ },
+ {
+  "id": 2,
+  "status": "live",
+  "type": "brand",
+  "cat": "sixes",
+  "title": "Hong Kong Sixes",
+  "sub": "Hong Kong Sixes 2026",
+  "big": "SIXES",
+  "brand": "LIVE ON WILLOW",
+  "h": [
+   18,
+   350
+  ]
+ },
+ {
+  "id": 3,
+  "status": "live",
+  "type": "score",
+  "cat": "cricket",
+  "title": "ICC WORLD TEST CHAMPIONSHIP",
+  "sub": "Bangladesh Vs West Indies",
+  "t1": [
+   "BAN",
+   "BANGLADESH"
+  ],
+  "t2": [
+   "WI",
+   "WEST INDIES"
+  ],
+  "score": "79/6",
+  "ov": "29 ov • lead 106",
+  "inn": "3RD INNING"
+ },
+ {
+  "id": 4,
+  "status": "live",
+  "type": "brand",
+  "cat": "ipl",
+  "title": "IPL Super Night",
+  "sub": "Mumbai Vs Chennai || T20",
+  "big": "IPL",
+  "brand": "T20 LEAGUE",
+  "h": [
+   262,
+   230
+  ]
+ },
+ {
+  "id": 5,
+  "status": "upcoming",
+  "type": "poster",
+  "cat": "wc",
+  "title": "World Cup Warm-up",
+  "sub": "Australia Vs England || ODI",
+  "big": "AUSTRALIA <br>vs ENGLAND",
+  "tag": "Warm-up fixture",
+  "time": "Today 7:30 PM",
+  "h": [
+   140,
+   200
+  ]
+ },
+ {
+  "id": 6,
+  "status": "upcoming",
+  "type": "brand",
+  "cat": "cricket",
+  "title": "South Africa Tour",
+  "sub": "South Africa Vs Pakistan || T20",
+  "big": "SA vs PAK",
+  "brand": "T20 SERIES",
+  "time": "Tomorrow 2:00 PM",
+  "h": [
+   160,
+   190
+  ]
+ },
+ {
+  "id": 7,
+  "status": "upcoming",
+  "type": "brand",
+  "cat": "sixes",
+  "title": "Hong Kong Sixes",
+  "sub": "Quarter Final 2",
+  "big": "SIXES",
+  "brand": "QUARTER FINAL",
+  "time": "Tomorrow 6:30 PM",
+  "h": [
+   18,
+   340
+  ]
+ },
+ {
+  "id": 8,
+  "status": "upcoming",
+  "type": "brand",
+  "cat": "ipl",
+  "title": "IPL Legends Cup",
+  "sub": "Bengaluru Vs Kolkata || T20",
+  "big": "IPL",
+  "brand": "LEGENDS",
+  "time": "Sat 7:30 PM",
+  "h": [
+   280,
+   230
+  ]
+ },
+ {
+  "id": 9,
+  "status": "upcoming",
+  "type": "poster",
+  "cat": "wc",
+  "title": "World Cup Qualifier",
+  "sub": "Sri Lanka Vs Zimbabwe || ODI",
+  "big": "SRI LANKA <br>vs ZIMBABWE",
+  "tag": "Qualifier",
+  "time": "Sun 1:00 PM",
+  "h": [
+   190,
+   215
+  ]
+ },
+ {
+  "id": 10,
+  "status": "finished",
+  "type": "poster",
+  "cat": "cricket",
+  "title": "England Tour of India",
+  "sub": "India Vs England || T20",
+  "big": "INDIA <br>vs ENGLAND",
+  "tag": "Full match replay",
+  "h": [
+   225,
+   240
+  ]
+ }
+]
