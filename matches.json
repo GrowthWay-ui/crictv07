@@ -12,38 +12,5 @@
    205,
    225
   ]
- },
- {
-  "id": 2,
-  "status": "live",
-  "type": "brand",
-  "cat": "sixes",
-  "title": "Hong Kong Sixes",
-  "sub": "Hong Kong Sixes 2026",
-  "big": "SIXES",
-  "brand": "LIVE ON WILLOW",
-  "h": [
-   18,
-   350
-  ]
- },
- {
-  "id": 3,
-  "status": "live",
-  "type": "score",
-  "cat": "cricket",
-  "title": "ICC WORLD TEST CHAMPIONSHIP",
-  "sub": "Bangladesh Vs West Indies",
-  "t1": [
-   "BAN",
-   "BANGLADESH"
-  ],
-  "t2": [
-   "WI",
-   "WEST INDIES"
-  ],
-  "score": "79/6",
-  "ov": "29 ov • lead 106",
-  "inn": "3RD INNING"
  }
 ]
