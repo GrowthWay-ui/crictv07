@@ -74,50 +74,5 @@
    140,
    200
   ]
- },
- {
-  "id": 6,
-  "status": "upcoming",
-  "type": "brand",
-  "cat": "cricket",
-  "title": "South Africa Tour",
-  "sub": "South Africa Vs Pakistan || T20",
-  "big": "SA vs PAK",
-  "brand": "T20 SERIES",
-  "time": "Tomorrow 2:00 PM",
-  "h": [
-   160,
-   190
-  ]
- },
- {
-  "id": 7,
-  "status": "upcoming",
-  "type": "brand",
-  "cat": "sixes",
-  "title": "Hong Kong Sixes",
-  "sub": "Quarter Final 2",
-  "big": "SIXES",
-  "brand": "QUARTER FINAL",
-  "time": "Tomorrow 6:30 PM",
-  "h": [
-   18,
-   340
-  ]
- },
- {
-  "id": 8,
-  "status": "upcoming",
-  "type": "brand",
-  "cat": "ipl",
-  "title": "IPL Legends Cup",
-  "sub": "Bengaluru Vs Kolkata || T20",
-  "big": "IPL",
-  "brand": "LEGENDS",
-  "time": "Sat 7:30 PM",
-  "h": [
-   280,
-   230
-  ]
  }
 ]
