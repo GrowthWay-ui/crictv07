@@ -45,34 +45,5 @@
   "score": "79/6",
   "ov": "29 ov • lead 106",
   "inn": "3RD INNING"
- },
- {
-  "id": 4,
-  "status": "live",
-  "type": "brand",
-  "cat": "ipl",
-  "title": "IPL Super Night",
-  "sub": "Mumbai Vs Chennai || T20",
-  "big": "IPL",
-  "brand": "T20 LEAGUE",
-  "h": [
-   262,
-   230
-  ]
- },
- {
-  "id": 5,
-  "status": "upcoming",
-  "type": "poster",
-  "cat": "wc",
-  "title": "World Cup Warm-up",
-  "sub": "Australia Vs England || ODI",
-  "big": "AUSTRALIA <br>vs ENGLAND",
-  "tag": "Warm-up fixture",
-  "time": "Today 7:30 PM",
-  "h": [
-   140,
-   200
-  ]
  }
 ]
