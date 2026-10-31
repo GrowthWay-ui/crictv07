@@ -1,18 +1,31 @@
-[
- {
-  "id": 1793413115735,
-  "status": "upcoming",
-  "type": "poster",
-  "title": "Ind vs NZ",
-  "sub": "India vs NewZealand 5th T20",
-  "time": "",
-  "banner": "https://raw.githubusercontent.com/GrowthWay-ui/crictv07/main/banners/1793413112591.jpg",
-  "servers": [
-   {
-    "name": "Anytime",
-    "r": "globe",
-    "url": ""
-   }
-  ]
+{
+ "v": 2,
+ "matches": [],
+ "categories": [],
+ "settings": {
+  "brand": "CRIC TV",
+  "c1": "#00d2ff",
+  "c2": "#ff6b00",
+  "c3": "#00e676",
+  "theme": "light",
+  "radius": 24,
+  "font": "lux",
+  "tilt": 12,
+  "noticeText": "Any Problem, Query, Advice",
+  "noticeLink": "https://t.me/ContactTheAkbot",
+  "noticeBtn": "CONTACT DEVELOPER",
+  "f": {
+   "themeBtn": 1,
+   "shareBtn": 1,
+   "refreshBtn": 1,
+   "searchBtn": 1,
+   "categories": 1,
+   "notice": 1,
+   "tabUpcoming": 1,
+   "tabFinished": 1,
+   "tilt": 1,
+   "hero": 1,
+   "pills": 1
+  }
  }
-]
+}
