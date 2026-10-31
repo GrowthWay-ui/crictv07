@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": 1793413115735,
+  "status": "upcoming",
+  "type": "poster",
+  "title": "Ind vs NZ",
+  "sub": "India vs NewZealand 5th T20",
+  "time": "",
+  "banner": "https://raw.githubusercontent.com/GrowthWay-ui/crictv07/main/banners/1793413112591.jpg",
+  "servers": [
+   {
+    "name": "Anytime",
+    "r": "globe",
+    "url": ""
+   }
+  ]
+ }
+]
