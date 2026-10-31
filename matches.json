@@ -2,22 +2,6 @@
  "v": 2,
  "matches": [
   {
-   "id": 1793454417160,
-   "status": "live",
-   "type": "poster",
-   "title": "India VS New Zealand",
-   "sub": "India VS New Zealand || 5th T20i",
-   "time": "",
-   "banner": "https://raw.githubusercontent.com/GrowthWay-ui/crictv07/main/banners/1793454415044.jpg",
-   "servers": [
-    {
-     "name": "Hindi",
-     "r": "",
-     "url": ""
-    }
-   ]
-  },
-  {
    "id": 1793451186817,
    "status": "upcoming",
    "type": "poster",
