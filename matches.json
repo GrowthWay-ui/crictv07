@@ -87,10 +87,10 @@
   "splashBtn": "Start Watching Cricket",
   "adLink": "https://uplcm.com/4/12163876",
   "f": {
-   "ads": 1,
+   "ads": 0,
    "directAd": 1,
-   "splash": 1,
-   "notifBtn": 1,
+   "splash": 0,
+   "notifBtn": 0,
    "themeBtn": 1,
    "shareBtn": 1,
    "refreshBtn": 1,
