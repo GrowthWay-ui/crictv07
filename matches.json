@@ -3,7 +3,7 @@
  "matches": [
   {
    "id": 1793497278032,
-   "status": "upcoming",
+   "status": "live",
    "type": "poster",
    "title": "India VS Bangladesh",
    "sub": "India VS Bangladesh || Hong Kong Sixex",
@@ -13,7 +13,7 @@
     {
      "name": "Fancode",
      "r": "globe",
-     "url": "Fancode"
+     "url": "https://live-here-bro.pages.dev/fcplay?id=4250325_ENG"
     }
    ]
   },
