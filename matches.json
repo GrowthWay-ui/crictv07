@@ -40,12 +40,32 @@
    "title": "India VS New Zealand",
    "sub": "India VS New Zealand || 5th T20i",
    "time": "Tommorow 11:30",
-   "banner": "https://raw.githubusercontent.com/GrowthWay-ui/crictv07/main/banners/1793451183352.jpg",
+   "banner": "https://raw.githubusercontent.com/GrowthWay-ui/crictv07/main/banners/1793510206438.jpg",
    "servers": [
     {
-     "name": "Prime Hindi",
-     "r": "",
-     "url": ""
+     "name": "Sony Hindi",
+     "r": "flag",
+     "url": "https://edgexcoverv-1.pages.dev/?id=hindi"
+    },
+    {
+     "name": "Sky Cricket",
+     "r": "globe",
+     "url": "https://edgexcoverv-1.pages.dev/?id=skysport1-nz"
+    },
+    {
+     "name": "Fox sports",
+     "r": "globe",
+     "url": "https://edgexcoverv-1.pages.dev/?id=fox-sports-505"
+    },
+    {
+     "name": "Willow By Cricbuzz",
+     "r": "globe",
+     "url": "https://edgexcoverv-1.pages.dev/?id=willow"
+    },
+    {
+     "name": "TNT Sports",
+     "r": "globe",
+     "url": "https://edgexcoverv-1.pages.dev/?id=tnt"
     }
    ]
   }
