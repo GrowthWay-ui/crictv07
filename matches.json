@@ -2,6 +2,22 @@
  "v": 2,
  "matches": [
   {
+   "id": 1793497278032,
+   "status": "upcoming",
+   "type": "poster",
+   "title": "India VS Bangladesh",
+   "sub": "India VS Bangladesh || Hong Kong Sixex",
+   "time": "Today 8:00",
+   "banner": "https://raw.githubusercontent.com/GrowthWay-ui/crictv07/main/banners/1793497275683.jpg",
+   "servers": [
+    {
+     "name": "Fancode",
+     "r": "globe",
+     "url": "Fancode"
+    }
+   ]
+  },
+  {
    "id": 1793454796070,
    "status": "finished",
    "type": "poster",
@@ -47,7 +63,11 @@
   "noticeText": "Any Problem, Query, Advice",
   "noticeLink": "https://t.me/ContactTheAkbot",
   "noticeBtn": "CONTACT DEVELOPER 🫂",
+  "shareLink": "https://filespay.org/s7xrmuk4s7lq",
+  "splashBtn": "Start Watching Cricket",
   "f": {
+   "splash": 1,
+   "notifBtn": 1,
    "themeBtn": 1,
    "shareBtn": 1,
    "refreshBtn": 1,
@@ -60,5 +80,6 @@
    "hero": 1,
    "pills": 1
   }
- }
+ },
+ "notifs": []
 }
