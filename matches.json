@@ -3,7 +3,7 @@
  "matches": [
   {
    "id": 1793497278032,
-   "status": "live",
+   "status": "finished",
    "type": "poster",
    "title": "India VS Bangladesh",
    "sub": "India VS Bangladesh || Hong Kong Sixex",
@@ -65,7 +65,10 @@
   "noticeBtn": "CONTACT DEVELOPER 🫂",
   "shareLink": "https://filespay.org/s7xrmuk4s7lq",
   "splashBtn": "Start Watching Cricket",
+  "adLink": "https://uplcm.com/4/12163876",
   "f": {
+   "ads": 1,
+   "directAd": 1,
    "splash": 1,
    "notifBtn": 1,
    "themeBtn": 1,
